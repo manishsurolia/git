@@ -1,0 +1,8 @@
+To prepare your system for working on a Git repository, execute the following
+commands,
+
+git init
+git config --global user.name "Your Name"
+git config --global user.email "email-id"
+git remote add origin https://github.com/manishsurolia/Operating-Systems.git (The Git repository you're contributing to)
+git pull https://github.com/manishsurolia/Operating-Systems.git (The Git repository you're contributing to)
