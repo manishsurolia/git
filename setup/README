@@ -6,3 +6,4 @@ git config --global user.name "Your Name"
 git config --global user.email "email-id"
 git remote add origin https://github.com/manishsurolia/Operating-Systems.git (The Git repository you're contributing to)
 git pull https://github.com/manishsurolia/Operating-Systems.git (The Git repository you're contributing to)
+git remote set-url origin https://<your_github_token>@github.com/manishsurolia/Operating-Systems
